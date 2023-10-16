@@ -1,0 +1,82 @@
+.cuerpo {
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #ffffff; 
+}
+
+
+
+.content {
+    width: 320px;
+    height: 200px;
+    background-color: #fff;
+    margin-top: 15%;
+    margin-left: 35%;
+}
+
+h1 {
+    color: black;
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 5%;
+    
+}
+
+.icono {
+    float: right;
+    margin-right: 5%;
+    margin-top: 1%;
+    
+}
+
+hr {
+    width: 290px;
+    height: 2px;
+    background-color: rgb(181, 181, 181);
+}
+
+
+
+h4{
+    color: black;
+    font-size: 15px;
+    font-weight: normal;
+   margin-left: 5%;
+}
+
+h5 {
+    color: black;
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: -5%;
+    margin-left: 5%;
+}
+
+.boton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border-color: #51b8fd;
+    float: right;
+    margin-right: 5%;
+    border-radius: 5%;
+    width: 111px;
+    height: 30px;
+    margin-top: 2%;
+    font-size: 12px;
+  }
+
+  .transparent {
+    background-color: none;
+    border:2px solid #1ca2fb;
+   
+    width: 60px;
+    height: 30px;
+    border-radius: 8%;
+    margin-top: 2%;
+    float: right;
+    margin-right: 2.5%;
+    color: #1ca2fb;
+}
